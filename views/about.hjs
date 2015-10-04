@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+
+
+</head>
+<body>
+
+<div class="left">Foxman Labs<br/><p1> music producer/audio engineer</p1><br/><br/> <div class="circular"></div>
+  <br/><br/><br/><br/><br/><br/>
+
+  <a href=#><img src="../images/soundcloud.svg" alt="Visit Modus on Vimeo!" style="width:50px"></a>
+  <a href="https://www.facebook.com/modus.aka.foxman"><img src="../images/facebook2.svg" alt="Visit Modus on Facebook!" style="width:50px"></a>
+  <a href="https://vimeo.com/modus36"><img src="../images/vimeo2.svg" alt="Visit Modus on Vimeo!" style="width:50px"></a>
+
+
+</div>
+<div class="right">
+<ul><li><a href="/">Home</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/equipment">Equipment</a></li>
+  <li><a href="/contact">Contact</a></li>
+  </ul>
+<br/><br/>
+<br/><br/><br/>
+<img src="/images/foxxx.png" width="200px">
+<h1>About Me</h1>
+<br/><br/>
+<h2>
+Born in Hungary, Europe.<br/>
+Making music since 2003.<br/>
+Graduate of Institute of Audio Research, NYC. <br/>
+Available for music production, mixing, mastering.
+</h2>
+
+</div>
+<footer1>
+2015 Foxman Labs. All Rights Reserved.<br/>
+Developed by RaBBiT. Powered by inMotion Hosting.
+</footer1>
+
+
+</body>
+
+</html>

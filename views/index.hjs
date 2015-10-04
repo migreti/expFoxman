@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+
+
+</head>
+<body>
+
+
+<div class='left'>
+
+  Foxman Labs<br><p1> music producer/audio engineer</p1><br><br> <div class="circular"></div>
+  <br><br><br><br><br><br>
+
+  <a href=#><img src="../images/soundcloud.svg" alt="Visit Modus on Vimeo!" style="width:50px"></a>
+  <a href="https://www.facebook.com/modus.aka.foxman"><img src="../images/facebook2.svg" alt="Visit Modus on Facebook!" style="width:50px"></a>
+  <a href="https://vimeo.com/modus36"><img src="../images/vimeo2.svg" alt="Visit Modus on Vimeo!" style="width:50px"></a>
+
+
+</div>
+<div class='right'>
+<ul><li><a href="/">Home</a></li>
+  <li><a href="/about">About</a></li>
+  <li><a href="/equipment">Equipment</a></li>
+  <li><a href="/contact">Contact</a></li>
+</ul>
+<br><br>
+<iframe src="https://player.vimeo.com/video/137796278" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br><br><iframe src="https://player.vimeo.com/video/131061862" width="500" height="367" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <br><br><iframe src="https://player.vimeo.com/video/20181641" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br><iframe src="https://player.vimeo.com/video/21331291" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <br><br>
+<footer>
+<p2>2015 Foxman Labs. All Rights Reserved.<br>
+Developed by RaBBiT. Powered by inMotion Hosting.</p2>
+</footer>
+</div>
+
+
+
+</body>
+
+
+
+</html>
